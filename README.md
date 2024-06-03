@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on data analyst<br>👨‍💻I'm currently learning data science and machine learning <br>💬Ask me about data analysis<br>📫 How to reach me **manikabhijit15@gmail.com**<br>😄Fun fact - I am lazy but Smart
+🔭I'm currently working on data analyst<br>👨‍💻I'm currently learning data science and machine learning <br>💬Ask me about data analysis<br>📫 How to reach me **manikabhijit15@gmail.com**<br>😄Fun fact - I am lazy but smart
 
 
 ## 🌐 Socials:
